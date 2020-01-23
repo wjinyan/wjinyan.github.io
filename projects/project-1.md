@@ -10,7 +10,7 @@ labels:
   - Java
   - Game Development
 summary: A user-interactive game for the final group project in ICS 111.
-
+projecturl: https://github.com/wjinyan/animalcatching
 ---
 
 <div class="ui small rounded images">
