@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/acnlproj.jpg
 title: Fruit Catching Game
-permalink: projects/micromouse
+permalink: projects/fruitcatching
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-27
 labels:
