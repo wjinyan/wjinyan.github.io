@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/bank.png
 title: Bank Database
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-12-12
 labels:
   - C
   - C++
