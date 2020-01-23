@@ -34,7 +34,7 @@
       ]
     },
     {
-      "name": "App development",
+      "name": "app development",
       "keywords": [
       ]
     },
@@ -88,24 +88,25 @@
       "website": "",
       "startDate": "2018-10-20",
       "endDate": "2019-5-20",
-      "summary": "Tutored kids with homework assignments as well as reading and writing in an after school program at Ka'ahumanu Elementary school",
+      "summary": "Tutored kids with reading and math in an after school program at Ka'ahumanu Elementary school",
       "highlights": [
         "Collaboration",
-        "Meetings to improve interaction with kids"
+        "Meetings to faciliate activities with kids"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Leo Club",
+      "website": "",
+      "position": "Member, Historian, Vice president",
+      "startDate": "2014-08-01",
+      "endDate": "2018-5-20",
+      "summary": "Community service club affiliated with the Chinatown Lion's Club ,
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Managed volunteer signups for the club",
+        "Maintained the club website",
+        "Calculated service hours"
       ]
     }
   ],
