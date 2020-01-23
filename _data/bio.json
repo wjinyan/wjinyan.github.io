@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Jin Yan Wu",
-    "label": "Student",
+    "label": "Undergrad student",
     "picture": "https://wjinyan.github.io/images/me.png",
     "email": "jinyan@hawaii.edu",
     "phone": "",
@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "wjinyan",
-        "url": "www.linkedin.com/in/jin-yan-wu-5b887619a"
+        "url": "http://www.linkedin.com/in/jin-yan-wu-5b887619a"
       }
     ]
   },
@@ -89,6 +89,18 @@
       "startDate": "2018-10-20",
       "endDate": "2019-5-20",
       "summary": "Tutored kids with reading and math in an after school program at Ka'ahumanu Elementary school",
+      "highlights": [
+        "Collaboration",
+        "Meetings to faciliate activities with kids"
+      ]
+    },
+    {
+      "company": "Macy's",
+      "position": "Recovery worker",
+      "website": "",
+      "startDate": "2018-10-20",
+      "endDate": "2018-5-20",
+      "summary": "Helped with the organizing of clothing",
       "highlights": [
         "Collaboration",
         "Meetings to faciliate activities with kids"
