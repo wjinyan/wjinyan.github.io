@@ -13,7 +13,7 @@ labels:
   - Organization
 summary: A community service club I took part in high school.
 ---
-<img class="ui medium center floated rounded image" src="../images/leowebsite.png">
+<img class="ui medium floated rounded image" src="../images/leowebsite.png">
 
 During my time in high school, I was an active member of the Roosevelt Leo Club, a community service club that stood for "leadership," "experience," and "opportunity." Engaging in this club gave way to experiences outside of school and opportunities to collaborate with other organizations that are helping to improve the community.
 
