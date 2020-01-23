@@ -11,7 +11,7 @@ labels:
   - Game Development
 summary: A user-interactive game for the final group project in ICS 111.
 ---
-
+#Animal Crossing-Themed Fruit Catching
 <div class="ui small rounded images">
   <img class="ui image" src="../images/gameintro.png">
   <img class="ui image" src="../images/gameplay.png">
