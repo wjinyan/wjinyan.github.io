@@ -12,7 +12,6 @@ labels:
 summary: A bank database program for ICS 212
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
 This user-friendly bank database program, developed using C and C++ utilizes pointers to access and remove information for targeted records in the database. Each record holds an account number, a name, and an address, and the records are sorted by account numbers from largest to smallest. 
 
