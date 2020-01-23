@@ -77,7 +77,9 @@
       "endDate": "Present",
       "gpa": "3.8",
       "courses": [
-        ""
+        "ICS 111 - Introduction to Computer Science I ",
+        "ICS 211 - Introduction to Computer Science II",
+        "ICS 212 - Program Structure"
       ]
     }
   ],
@@ -96,14 +98,15 @@
     },
     {
       "company": "Macy's",
-      "position": "Recovery worker",
+      "position": "Retail Recovery worker",
       "website": "",
-      "startDate": "2018-10-20",
-      "endDate": "2018-5-20",
-      "summary": "Helped with the organizing of clothing",
+      "startDate": "2018-11-20",
+      "endDate": "2018-12-25",
+      "summary": "Greeted incoming customers and helped with the recovery and folding of clothes at Waikiki Macy's",
       "highlights": [
-        "Collaboration",
-        "Meetings to faciliate activities with kids"
+        "Organization",
+        "Customer support"
+        "Helped incoming customers with their needs"
       ]
     }
   ],
