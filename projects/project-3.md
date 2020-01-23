@@ -12,7 +12,7 @@ labels:
 summary: A bank database program for ICS 212
 ---
 
-<img class="ui medium rounded image" src="/images/bankterminal.png">
+<img class="ui large middle aligned rounded image" src="/images/bankterminal.png">
 
 This bank database program, developed using C and C++ utilizes pointers to access and remove information for targeted records in the database. Each record holds an account number, a name, and an address, and the records are sorted by account numbers from largest to smallest. 
 
