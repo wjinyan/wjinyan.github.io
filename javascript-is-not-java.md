@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Exploring the New Realm  
+title: Javascript is not Java?  
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:
