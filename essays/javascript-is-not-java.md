@@ -6,8 +6,8 @@ title: Javascript is not Java?
 date: 2020-01-23
 labels:
   - Software Engineering
-  - Learning
-  - Gaming
+  - Javascript
+  - WOD
 ---
 
 ## Java Again?
