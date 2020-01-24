@@ -19,13 +19,10 @@ This game, titled "Animal Catching," is an Animal Crossing-themed game in which 
 ## In the Making
 I collaborated with my partner on this game for the final project of ICS 111. Using the UH multilibrary, EZGraphics, we were able to incorporate sounds and images from the internet into our game. We worked to implement several components: a welcome screen with 'space' button to activate the game, a score that increases every time a fruit lands into the basket, a points system for specific fruits collected, a count of hearts for the number of lives left, and a game-over screen. I helped with the organization, the design, and ways to make the game user-friendly by having clear instructions.
 
-<img class="medium right rounded floated ui image" src="../images/gameplay.png">
-
-
-
 The process of making this game has taught me how to design a game with Object-Oriented programming and ways to develop code for a task at hand, such as obstacle detection. I've also learned to simplify things by creating methods that will be used in different areas of the game. 
 
-<img class="medium left rounded floated ui image" src="../images/gameending.png">
+<img class="medium right rounded ui image" src="../images/gameplay.png">
+<img class="medium left rounded ui image" src="../images/gameending.png">
  
  
  
