@@ -21,6 +21,8 @@ I collaborated with my partner on this game for the final project of ICS 111. Us
 
 The process of making this game has taught me how to design a game with Object-Oriented programming and ways to develop code for a task at hand, such as obstacle detection. I've also learned to simplify things by creating methods that will be used in different areas of the game. 
 
+Source: <a href="https://github.com/wjinyan/animalcatching"><i class="large github icon "></i>wjinyan/animalcatching</a>
+
 <img class="medium right rounded floated ui image" src="../images/gameplay.png">
 <img class="medium left rounded floated ui image" src="../images/gameending.png">
  
@@ -28,4 +30,4 @@ The process of making this game has taught me how to design a game with Object-O
  
  
  
-Source: <a href="https://github.com/wjinyan/animalcatching"><i class="large github icon "></i>wjinyan/animalcatching</a>
+
