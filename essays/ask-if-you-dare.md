@@ -20,7 +20,8 @@ When stumped, we instinctively want immediate solutions to be relieved of the st
 
 ## Not Smart
 A question that may go against Raymond's standards as a "smart" question is one that pastes his entire code and expects that someone will find his errors, like this [user](https://stackoverflow.com/questions/59999155/why-am-i-getting-iresult-value-right-shifted). His code is included as follows: 
-```int main()
+```C
+int main()
 {
     unsigned    int Iresult = 0x5500, Icount ;
 
