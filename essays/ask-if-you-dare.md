@@ -45,7 +45,8 @@ A question that may go against Raymond's standards as a "smart" question is one 
     printf("\n");
 
 
-}```
+}
+```
 
 This user may not have thoroughly researched the web or practiced the concepts before posting his question because he assumes that he is performing a left shift, and is resulting in a right shift instead. He also does not indicate explicitly in the code the possible cause of errors nor does he say where he did his shifts, making it difficult for responders to pinpoint the problem in this broad question. 
 
