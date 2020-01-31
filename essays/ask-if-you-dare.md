@@ -31,9 +31,11 @@ int main()
 }
 ```
 The question is specific, and he has tested this in other environments in a curious attempt.  While this is merely a question about conditionals, it does show that the user is respectful of others in that he has researched elsewhere in an attempt to find an operator that involves '-->', which is later clarified by another user that it is not an operator, but two separate operators, '--' and '>' to compare x-- with 0 by the '>' operator. The question is also clear, concise with no grammatical errors. The answers to this forum has easily clarified the confusion and is provided with many different examples to differentiate the operators and better understand the statement, e.g.,  
-`
+
+```
 while( (x--) > 0 ).
-`
+```
+
 ## Not Smart
 A question that may go against Raymond's standards as a "smart" question is one that pastes his entire code and expects that someone will find his errors, like this [user](https://stackoverflow.com/questions/59999155/why-am-i-getting-iresult-value-right-shifted). His code is included as follows: 
 ```C
