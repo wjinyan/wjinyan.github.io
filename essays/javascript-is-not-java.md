@@ -9,6 +9,7 @@ labels:
   - Javascript
   - WOD
 ---
+<img class="ui medium floated image" src="../images/javascript.png">
 
 ## Java Again?
 Coming into this class, the only thing I knew about Javascript was that it is often used in responsive webpages and animations. I've also heard a word or two that web-browser games can also be developed with Javascript. When I found out that we were going to learn how to use it in this class, I figured that it would only be a reiteration of what we have already learned in our lower-division ICS classes. This was true as I was completing the starting exercises in FreeCodeCamp, as those were fairly straightforward. However, as I approached the ES6 portion, I was bewildered. Not only was I confused with the syntax, but I was also having difficulty grasping onto all the new features that supposedly made the code "easier" to read. There were countless times I had to resort to getting hints to complete the tasks at hand.
