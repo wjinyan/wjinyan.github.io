@@ -10,7 +10,7 @@ labels:
   - Gaming
 ---
 
-<img class="ui medium right circular floated image" src="../images/mushroom.jpeg">
+<img class="ui medium right circular floated image" src="../images/mushroom.jpg">
 
 ## Early Beginnings
 As a toddler, I pictured the walls of our apartment like a giant white canvas. Holding several crayons in my hand, I managed to cover every space, every corner with a doodle of some sort. From that point onward, my parents had discovered my newfound talent--to be able to tarnish a white wall in a matter of seconds. In other words, I was a wall-wrecker, but at least I was able to communicate and express my thoughts through illustrations, more so than words. Thus, I was, for a long time, convinced that art was the right path for me. However, as the years progressed, I began to take an interest in something else.
