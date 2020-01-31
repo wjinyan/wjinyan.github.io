@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui medium floated image" src="../images/questionmark.gif">
+<img class="ui small floated image" src="../images/questionmark.gif">
 
 ## Feel free to ask...on one condition 
 We are always told never to be hesitant when asking questions, as questions are a definitive way to clarify one's understanding of things. However, this isn’t exactly to say for “dumb” questions, and Raymond's article gives scornful criticism to these types of questions as he addresses this topic. While it is important to ask questions, it is also crucial that the question is formulated in the best possible way so that it could be beneficial to not only the asker but to other people in the community as well. Often, trivial questions could do us more harm than good and could even be aggravating for software engineers who choose to voluntarily help. Formulating a question requires much thought and skill, and one question alone could even alter a person's reputation. This not only applies to the field of computer science but everyday life as well. 
@@ -30,8 +30,10 @@ int main()
     }
 }
 ```
-The question is specific, and he has tested this in other environments in a curious attempt.  While this is merely a question about conditionals, it does show that the user is respectful of others in that he has researched elsewhere in an attempt to find an operator that involves '-->', which is later clarified by another user that it is not an operator, but two separate operators, '--' and '>' to compare x-- with 0 by the '>' operator. The question is also clear, concise with no grammatical errors. The answers to this forum has easily clarified the confusion and is provided with many different examples to differentiate the operators and better understand the statement, e.g.,  while( (x--) > 0 ).
-
+The question is specific, and he has tested this in other environments in a curious attempt.  While this is merely a question about conditionals, it does show that the user is respectful of others in that he has researched elsewhere in an attempt to find an operator that involves '-->', which is later clarified by another user that it is not an operator, but two separate operators, '--' and '>' to compare x-- with 0 by the '>' operator. The question is also clear, concise with no grammatical errors. The answers to this forum has easily clarified the confusion and is provided with many different examples to differentiate the operators and better understand the statement, e.g.,  
+`
+while( (x--) > 0 ).
+`
 ## Not Smart
 A question that may go against Raymond's standards as a "smart" question is one that pastes his entire code and expects that someone will find his errors, like this [user](https://stackoverflow.com/questions/59999155/why-am-i-getting-iresult-value-right-shifted). His code is included as follows: 
 ```C
@@ -63,7 +65,7 @@ int main()
 }
 ```
 
-This user may not have thoroughly researched the web or practiced the concepts before posting his question because he assumes that he is performing a left shift, and is resulting in a right shift instead. He also does not indicate explicitly in the code the possible cause of errors nor does he say where he did his shifts, making it difficult for responders to pinpoint the problem in this broad question. Moreover, the question is typed sloppily without grammatical corrections.
+This user may not have thoroughly researched the web or practiced the concepts before posting his question because he assumes that he is performing a left shift, and is resulting in a right shift instead. He also does not indicate explicitly in the code the possible cause of errors nor does he say where he did his shifts, making it difficult for responders to pinpoint the problem in this broad question. Moreover, the question is typed sloppily without grammatical corrections, which gives off a bad impression.
 
 ## Insights for the future
 This article is to help me formulate questions that will help me succeed as a programmer as I progress as a CS student. In a fast-paced world where technology and code are always changing and advancing, it is only vital that we learn how to ask smarter questions to better communicate with other software engineers. Clever questions assist us in developing our critical thinking abilities. Also, the last thing that engineers want is to be bogged with spam e-mails with questions that could simply be answered with a Google search. We could do them a favor and not clog up their inboxes, and ourselves a favor if we had put more effort before asking the question.
