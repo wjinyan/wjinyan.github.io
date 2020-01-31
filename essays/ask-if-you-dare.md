@@ -19,7 +19,35 @@ When stumped, we instinctively want immediate solutions to be relieved of the st
 ## Smart
 
 ## Not Smart
-A question that may go against Raymond's standards as a "smart" question is one that pastes his entire code and expects that someone will find his errors, like this [user](https://stackoverflow.com/questions/59999155/why-am-i-getting-iresult-value-right-shifted). This user may not have thoroughly researched the web or practiced the concepts before posting his question because he assumes that he is performing a left shift, and is resulting in a right shift instead. He also does not indicate explicitly in the code the possible cause of errors nor does he say where he did his shifts, making it difficult for responders to pinpoint the problem in this broad question. 
+A question that may go against Raymond's standards as a "smart" question is one that pastes his entire code and expects that someone will find his errors, like this [user](https://stackoverflow.com/questions/59999155/why-am-i-getting-iresult-value-right-shifted). His code is included as follows: 
+```int main()
+{
+    unsigned    int Iresult = 0x5500, Icount ;
+
+
+    printf("before\n");
+    for(Icount = 31; Icount != 0; Icount--)
+    {
+        printf("%d",( (Iresult >> Icount) & 1) );
+    }
+
+        printf("%d",( (Iresult >> 0) & 1) );
+    printf("\n");
+
+    Iresult =   ( ( (unsigned char *) &Iresult )[1] << 1  ) ;
+
+    printf("after\n");
+    for(Icount = 31; Icount != 0; Icount--)
+    {
+        printf("%d",( (Iresult >> Icount) & 1) );
+    }
+        printf("%d",( (Iresult >> 0) & 1) );
+    printf("\n");
+
+
+}```
+
+This user may not have thoroughly researched the web or practiced the concepts before posting his question because he assumes that he is performing a left shift, and is resulting in a right shift instead. He also does not indicate explicitly in the code the possible cause of errors nor does he say where he did his shifts, making it difficult for responders to pinpoint the problem in this broad question. 
 
 ## Insights for the future
 This article is to help me formulate questions that will help me succeed as a programmer as I progress as a CS student. In a fast-paced world where technology and code are always changing and advancing, it is only vital that we learn how to ask smarter questions to better communicate with other software engineers. Clever questions assist us in developing our critical thinking abilities. Also, the last thing that engineers want is spam e-mails with questions that could simply be answered with a Google search. We could do them a favor and not clog up their inboxes, and ourselves a favor if we had put more effort before asking the question.
