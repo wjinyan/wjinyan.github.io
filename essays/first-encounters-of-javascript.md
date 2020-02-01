@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Into a New Chapter: Javascript  
+title: First Encounters of Javascript  
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:
