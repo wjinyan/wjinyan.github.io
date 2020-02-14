@@ -9,7 +9,7 @@ labels:
   - Javascript
   - ESLint
 ---
-<img class="ui medium floated image" src="../images/helper.gif">
+<img class="ui medium rounded floated image" src="../images/helper.gif">
 
 ## Why Bother?
 As I was going through the tutorials on how to install ESLint and configure the IntelliJ preferences to use that standard, I thought to myself, how tedious! I definitely spent hours getting the hang of using the console and getting the ESLint to actually work. I then thought, why must we constantly go through the procedure of saving the three files into our project directories and installing the ESLint libraries? Isn't it okay to type our code the way that we are inclined to do? Do we need all our formatting to look that particular way? But then I remembered the same procedure we had to go through with installing Checkstyle while coding in Java in our 211 class. Undoubtedly, there is a particular reason why our professors are mandating that we install these utilities, and it is to benefit ourselves later on in the future as programmers. 
