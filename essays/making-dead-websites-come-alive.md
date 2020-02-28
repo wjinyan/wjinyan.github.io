@@ -22,6 +22,6 @@ From my personal experience, I can say that a dull website with plain HTML and C
 
 ## Pretty Websites For the Win!
 
-<img class="ui medium left floated rounded image" src=
+<img class="ui medium left floated rounded image" src="../images/designpic.png">
 It was an overall fun experience playing with Semantic UI and mimicking other websites that I never knew I could make. I am pleased with the knowledge I’ve gained from fiddling with one of the frameworks that enable such interactive features on a website. I have since learned that using frameworks like Semantic UI gives personality to the website and I believe that this experience is also good practice for web development careers in the future, or just useful background knowledge to have in general. In terms of business and marketing, a nice website is what attracts consumers, and if they are satisfied, profits are the likely outcome. A website could do a whole lot as to whether or not someone will buy a product. 
 
