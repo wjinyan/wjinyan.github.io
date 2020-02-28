@@ -7,7 +7,7 @@ date: 2020-02-27
 labels:
   - Semantic UI
   - Javascript
- ---
+---
 
 ## Learning Semantic...Is it Worth it?
 
