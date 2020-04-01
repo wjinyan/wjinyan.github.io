@@ -17,7 +17,7 @@ labels:
 ## Approach
 From the get-go, students can get straight to searching for a course they are interested in. They can do this by sorting by the most highly rated to a subject that interest them. One the initial card, students can see the course name, what campus and professor is the most reviewed, and the overall rating.
 
-Students can create a profile using their UH emails so that they can share their thoughts on a course that was fun for them. Course name, campus, times, and professor should be included because all those a factor when looking for courses. Students can also say what attributes it fulfills to kill two birds with one stone.
+Students can create a profile using their UH emails so that they can share their thoughts on a course that was fun for them. The course name, campus, times, and professor should be included because all those a factor when looking for courses. Students can also say what attributes it fulfills to kill two birds with one stone.
 
 Admins can monitor the website to make sure that the reviews are given in a critical manner (not just bad talk) and make sure the courses are actual courses. 
 
