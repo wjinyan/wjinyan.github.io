@@ -10,7 +10,7 @@ labels:
 ---
 ## Huh? Ethics in Computer Science?
 
-<img class="medium floated image" src="https://www.metroparent.com/wp-content/uploads/2019/02/michigan-anti-cyberbullying-law-what-means-kids-families.jpg">
+<img class="ui medium floated image" src="https://www.metroparent.com/wp-content/uploads/2019/02/michigan-anti-cyberbullying-law-what-means-kids-families.jpg">
 
 Ethics is rarely a term that crosses the mind of early software engineers because they are too focused with functionality--that the program works and completes the task that was assigned. Being an undergraduate in Computer Science, I can truthfully say that the topic of ethics had never gone through my head, and this is because most of the lower division classes don't mention ethics, but rather the skill set and problem-solving that is needed in order to make a program. There is no denying the potential harm that any unrefined software could bring, even if it was unintentional. We want to analyze these situations, learn from these mistakes, and always be prepared for the worst. 
 
