@@ -14,9 +14,10 @@ Ethics is rarely a term that crosses the mind of early software engineers becaus
 
 ## Case Study: Harassment 
 
+<img class="ui medium rounded floated image" src="https://www.metroparent.com/wp-content/uploads/2019/02/michigan-anti-cyberbullying-law-what-means-kids-families.jpg">
+
 The Gamergate controversy of 2014 was an abominable campaign started by a community of trolls targeting prominent females, namely, game developers Zoe Quinn and Brianna Wu, and feminist media critic Anita Sarkeesian. These harassment campaigns went as far as to doxing, rape and death threats. Commentators dismissed the situation, presuming it wasn't an ethical issue of concern. When people congregate anonymously, it is difficult to distinguish the perpetrators once they pounce upon victims. No one took responsibility, and these hateful communities often denied the abuse they were inflicting on these women, but could this have been avoided altogether with some efforts? The mistreatment of these women was obvious, yet no action was really taken, even when the situation has become so widespread. I feel that engineers are responsible in taking part in this Gamergate movement before it started destroying the lives of these females. 
 
-<img class="ui medium rounded floated image" src="https://www.metroparent.com/wp-content/uploads/2019/02/michigan-anti-cyberbullying-law-what-means-kids-families.jpg">
 
 Similarly, the case of The Serial Swatter took a 1000 hour worth of investigating on part of private detective B.A. Finley. The perpetrator took the name as "Obnoxious" and his actions were exactly what his pseudo name describes. It is sickening to see the persistent amount of threats he had imposed on Twitch streamers--mostly women--for his own satisfaction. As a software engineer at Twitch, I would feel that my ethical obligation, and priority, be to ensure the safety of all gamers. Twitch should be a platform to bring gamers together--not a platform to torment and bully users who simply want to have a great time. Bullying is not to be tolerated and should be reported immediately if it ever happens. If a user reports something suspicious, moderators should inspect the situation carefully and closely monitor if there are recurring cases of threats and fraudulent activity. 
 
