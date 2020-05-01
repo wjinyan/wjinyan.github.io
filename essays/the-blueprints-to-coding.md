@@ -2,11 +2,12 @@
 layout: essay
 type: essay
 title: The Blueprints to Coding
-date: 2015-08-26
+date: 2020-04-30
 labels:
   - Design Patterns
 ---
 
+<img class="ui medium right floated rounded image" src="https://www.christenseninstitute.org/wp-content/uploads/2016/05/Blueprint.jpg">
 ## Experience with design patterns 
 As amateur programmers, we tend to create code with the intent for the program to work and function as needed. What we don't realize is that after a while, our code becomes structured in a way that follows a specific design pattern experts in the past have perfected through trial and error. This can be tied with day-to-day situations and a great example is the "best" roof design in different states. It is most likely that different types of roofs were tried and tested before coming to terms that the most applicable roof design for heavily snowy regions like Alaska is the butterfly roof. Similarly, bridges have the same concept, but with serious or deadly consequences when using the wrong type of design. There are numerous types of bridges, each of them serving a different purpose. Civil engineers have studied these bridges carefully and have applied the designs accordingly to be the most practical, safe, and cost-effective. As we create things, we should to have a thought process of how we want to structure things, like having a blueprint to solving the problem. In most cases, we do not want to tackle the problem blindly and hope that whatever solution we come up with will suffice. 
 
