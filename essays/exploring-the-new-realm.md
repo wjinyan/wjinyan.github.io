@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: 
 title: Exploring the New Realm  
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
