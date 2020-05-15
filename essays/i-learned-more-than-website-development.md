@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: I Learned Much More than to Make a Website
+title: I Learned More than Website Development
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-14
 labels:
