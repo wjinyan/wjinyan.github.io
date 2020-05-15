@@ -1,6 +1,6 @@
 ---
 layout: project
-type: project
+type: 
 image: images/leologo.gif
 title: Leo Club
 permalink: projects/rhsleoclub
