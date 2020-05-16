@@ -26,6 +26,6 @@ I have gained a significant amount of knowledge about collaborative programming 
   <img class="ui image" src="/images/onolanding.png">
   
   
-<i class="large github icon ">[Click here to see our project's github page!](https://ono-otw.github.io/)
+<i class="large github icon"/>[Click here to see our project's github page!](https://ono-otw.github.io/)
 
 
