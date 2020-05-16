@@ -80,7 +80,10 @@
       "courses": [
         "ICS 111 - Introduction to Computer Science I ",
         "ICS 211 - Introduction to Computer Science II",
-        "ICS 212 - Program Structure"
+        "ICS 212 - Program Structure",
+        "ICS 141 - Discrete Mathematics for Computer Science I",
+        "ICS 241 - Discrete Mathematics for Computer Science II",
+        "ICS 314 - Software Engineering I"
       ]
     }
   ],
@@ -104,6 +107,12 @@
       "date": "2018-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+     {
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2018-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarship for four years of undergraduate study. This scholarship is awarded to students that achieved a 3.5 GPA or a score of at least 1200 on the SAT upon applying to UH Manoa."
     }
   ],
   "references": [
