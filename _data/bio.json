@@ -56,7 +56,8 @@
       "keywords": [
         "C",
         "C++",
-        "Java"
+        "Java",
+        "Javascript"
       ]
     },
     {
@@ -94,34 +95,6 @@
       "highlights": [
         "Collaboration",
         "Meetings to faciliate activities with kids"
-      ]
-    },
-    {
-      "company": "Macy's",
-      "position": "Retail Recovery worker",
-      "website": "",
-      "startDate": "2018-11-20",
-      "endDate": "2018-12-25",
-      "summary": "Greeted incoming customers and helped with the recovery and folding of clothes at Waikiki Macy's",
-      "highlights": [
-        "Organization",
-        "Customer support",
-        "Helped incoming customers with their needs"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Leo Club",
-      "website": "",
-      "position": "Historian and Vice president",
-      "startDate": "2014-08-01",
-      "endDate": "2018-5-20",
-      "summary": "Community service club affiliated with the Chinatown Lion's Club",
-      "highlights": [
-        "Managed volunteer signups for the club",
-        "Maintained the club website",
-        "Calculated service hours"
       ]
     }
   ],
