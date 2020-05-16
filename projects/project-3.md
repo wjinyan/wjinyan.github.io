@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/bank.png
+image: https://clip.cookdiary.net/sites/default/files/wallpaper/bank-clipart/473846/bank-clipart-retail-banking-473846-8146448.png
 title: Bank Database
 permalink: projects/ics212bank
 # All dates must be YYYY-MM-DD format!
