@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: 
 title: Making Dead Websites Come Alive! 
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-27
