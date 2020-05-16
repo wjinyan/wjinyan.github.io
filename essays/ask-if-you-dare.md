@@ -41,9 +41,8 @@ A question that may go against Raymond's standards as a "smart" question is one 
 ```C
 int main()
 {
-    unsigned    int Iresult = 0x5500, Icount ;
-
-
+    unsigned int Iresult = 0x5500, Icount ;
+    
     printf("before\n");
     for(Icount = 31; Icount != 0; Icount--)
     {
@@ -62,7 +61,6 @@ int main()
     }
         printf("%d",( (Iresult >> 0) & 1) );
     printf("\n");
-
 
 }
 ```
