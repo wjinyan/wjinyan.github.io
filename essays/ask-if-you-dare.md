@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: 
 title: Ask If You Dare  
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-30
