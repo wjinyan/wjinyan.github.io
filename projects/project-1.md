@@ -11,7 +11,7 @@ labels:
   - Game Development
 summary: A user-interactive game for the final group project in ICS 111.
 ---
- 
+<img class="ui small floated right image" src="/images/gameintro.png">
 This game, titled "Animal Catching," is an Animal Crossing-themed game in which the user uses 'w' or 'a' keys on their keyboard to move the basket left or right, respectively, on the screen. The objective of the game is to catch as many of the falling fruits as possible before the user's lives run out. Six lives are given, and the user is faced with an obstacle, that is, a wasp that will spawn some point in the game. After its appearance, the wasp will continue to spawn until all the user's lives are out, essentially acting as a timer.
  
 ## In the Making!
@@ -21,8 +21,7 @@ The process of making this game has taught me how to design a game with Object-O
 
 Here are some pictures of the gameplay:
 
-<div class="ui small rounded images">
-  <img class="ui image" src="/images/gameintro.png">
+<div class="ui medium rounded images">
   <img class="ui image" src="/images/gameplay.png">
   <img class="ui image" src="/images/gameending.png">
 </div>
